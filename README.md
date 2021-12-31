@@ -1,4 +1,4 @@
-# Awesome-Part-Aware-2D-3D_Joint-Learning
+# Awesome-Part-Aware-2D-3D-Joint-Learning
 
 ## papers
 
