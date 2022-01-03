@@ -1,5 +1,9 @@
 # Awesome-Part-Aware-2D-3D-Joint-Learning
 
+## Tutorials
+
+* Contrast Learning video tutorial https://www.bilibili.com/video/BV19S4y1M7hm?from=search&seid=10759527350031983776&spm_id_from=333.337.0.0  
+
 ## papers
 
 * Single-View Reconstruction via Joint Analysis of Image and Shape Collections, *ACM Transactions on Graphics*,2019
