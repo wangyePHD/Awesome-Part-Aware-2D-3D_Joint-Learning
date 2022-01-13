@@ -56,7 +56,7 @@
 
 ### 2D Image part segmentation
 
-* Unsupervised Part Discovery from Contrastive Reconstruction, NIPS 2021 ⛔️
+* Unsupervised Part Discovery from Contrastive Reconstruction, NIPS 2021 ✅
 * SCOPS: Self-Supervised Co-Part Segmentation, CVPR 2019 ❌
 * Unsupervised Co-part Segmentation through Assembly, ICML 2021 ❌
 * 
