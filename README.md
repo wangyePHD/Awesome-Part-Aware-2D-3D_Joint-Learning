@@ -52,6 +52,12 @@
 
 * Unsupervised Point Cloud Object Co-segmentation by Co-contrastive Learning and Mutual Attention Sampling, ICCV 2021 ✅
   * SampleNet: Differentiable Point Cloud Sampling
+* Self-Supervised Learning for Domain Adaptation on Point Clouds
+* mDALU: Multi-Source Domain Adaptation and Label Unification with Partial Datasets
+* Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation
+* Bidirectional Projection Network for Cross Dimension Scene Understanding
+
+
 
 ### Implicit field
 
