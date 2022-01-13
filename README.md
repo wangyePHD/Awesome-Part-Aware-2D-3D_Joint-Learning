@@ -29,12 +29,12 @@
 ### multi-modality
 * Multimodal Image Synthesis and Editing: A Survey ⛔️
   * https://github.com/fnzhan/MISE  
-* xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation
+* xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation ❌
   * Code: https://github.com/valeoai/xmuda
-* Self-Supervised Learning for Domain Adaptation on Point Clouds
-* mDALU: Multi-Source Domain Adaptation and Label Unification with Partial Datasets
-* Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation
-* Bidirectional Projection Network for Cross Dimension Scene Understanding
+* Self-Supervised Learning for Domain Adaptation on Point Clouds ❌
+* mDALU: Multi-Source Domain Adaptation and Label Unification with Partial Datasets ❌
+* Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation ❌
+* Bidirectional Projection Network for Cross Dimension Scene Understanding ❌
 
 
 
