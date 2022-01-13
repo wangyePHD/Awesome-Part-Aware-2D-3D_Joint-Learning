@@ -27,7 +27,7 @@
 ❌：not do
 
 ### multi-modality
-* Multimodal Image Synthesis and Editing: A Survey ✅
+* Multimodal Image Synthesis and Editing: A Survey ❌
   * https://github.com/fnzhan/MISE  
 
 ### 2d-3d Joint-Learning
