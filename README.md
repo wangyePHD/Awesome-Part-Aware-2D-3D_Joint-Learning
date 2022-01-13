@@ -29,6 +29,9 @@
 ### multi-modality
 * Multimodal Image Synthesis and Editing: A Survey ⛔️
   * https://github.com/fnzhan/MISE  
+* xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation
+  * Code: https://github.com/valeoai/xmuda
+
 
 ### 2d-3d Joint-Learning
 
