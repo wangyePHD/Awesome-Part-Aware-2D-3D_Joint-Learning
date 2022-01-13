@@ -26,6 +26,10 @@
 
 ❌：not do
 
+### multi-modality
+* Multimodal Image Synthesis and Editing: A Survey
+  * https://github.com/fnzhan/MISE  
+
 ### 2d-3d Joint-Learning
 
 * Single-View Reconstruction via Joint Analysis of Image and Shape Collections, *ACM Transactions on Graphics*,2019 ✅
