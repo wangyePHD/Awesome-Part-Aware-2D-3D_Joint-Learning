@@ -8,6 +8,7 @@
 
 * ScanObjectNN 
 * S3DIS
+* CelebA https://zhuanlan.zhihu.com/p/35975956
 
 ## Terms
 
