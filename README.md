@@ -72,7 +72,7 @@
 * Unsupervised Part Discovery from Contrastive Reconstruction, NIPS 2021 ✅
 * SCOPS: Self-Supervised Co-Part Segmentation, CVPR 2019 ❌
 * Unsupervised Co-part Segmentation through Assembly, ICML 2021 ❌
-* 
+* Do semantic parts emerge in Convolutional Neural Networks? _Interest Reading_
 
 
 
