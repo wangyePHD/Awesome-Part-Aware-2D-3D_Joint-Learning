@@ -10,6 +10,7 @@
 * S3DIS
 * CelebA https://zhuanlan.zhihu.com/p/35975956
 * CUB https://zhuanlan.zhihu.com/p/436838742
+* PASCAL VOC https://zhuanlan.zhihu.com/p/362044555
 
 ## Terms
 
