@@ -2,6 +2,7 @@
 
 ## Code
 * PointNet
+* BAE-NET
 
 ## Tutorials
 
