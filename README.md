@@ -32,8 +32,20 @@
 
 ❌：not do
 
+### Cross-Modality Contrastive Learning
+* CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations, ICCV, 2021 ⛔️
+* Learning Transferable Visual Models From Natural Language Supervision, ICML, 2021 ⛔️
+* COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning, NIPS, 2020 ⛔️
+* HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval, ICCV, 2021 ⛔️
+* Support-set bottlenecks for video-text representation learning, ICLR, 2021 ⛔️
+* VideoCLIP: Contrastive Pre-training for Zero-shot Video-Text Understanding, EMNLP, 2021 ⛔️
+* T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval, CVPR, 2021 ⛔️
+* Multi-modal Transformer for Video Retrieval, ECCV, 2020 ⛔️
+* Fine-grained Cross-modal Alignment Network for Text-Video Retrieval, 2021, ACM Multimedia ⛔️
+* Contrast Learning video tutorial https://www.bilibili.com/video/BV19S4y1M7hm?from=search&seid=10759527350031983776&spm_id_from=333.337.0.0 ⛔️
+
 ### multi-modality
-* CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations ⛔️
+* 
 * Multimodal Image Synthesis and Editing: A Survey ⛔️
   * https://github.com/fnzhan/MISE  
 * xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation ❌
