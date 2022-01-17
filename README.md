@@ -33,6 +33,7 @@
 ❌：not do
 
 ### multi-modality
+* CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations ⛔️
 * Multimodal Image Synthesis and Editing: A Survey ⛔️
   * https://github.com/fnzhan/MISE  
 * xMUDA: Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation ❌
