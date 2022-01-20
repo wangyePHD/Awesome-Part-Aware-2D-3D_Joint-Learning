@@ -36,7 +36,6 @@
 ### Cross-Modality Contrastive Learning
 * CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations, ICCV, 2021 ✅
 * COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning, NIPS, 2020 ✅
-* Cross-Modal and Hierarchical Modeling of Video and Text, CVPR, 2018
 * Learning Transferable Visual Models From Natural Language Supervision, ICML, 2021 ⛔️
 * HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval, ICCV, 2021 ⛔️
 * Support-set bottlenecks for video-text representation learning, ICLR, 2021 ⛔️
@@ -46,6 +45,7 @@
 * Fine-grained Cross-modal Alignment Network for Text-Video Retrieval, 2021, ACM Multimedia ⛔️
 * Contrast Learning video tutorial https://www.bilibili.com/video/BV19S4y1M7hm?from=search&seid=10759527350031983776&spm_id_from=333.337.0.0 ⛔️
 * Use What You Have: Video Retrieval Using Representations From Collaborative Experts, BMVC, 2019
+* Cross-Modal and Hierarchical Modeling of Video and Text, CVPR, 2018
 * Learning a Text-Video Embedding from Incomplete and Heterogeneous Data
 
 ### multi-modality
