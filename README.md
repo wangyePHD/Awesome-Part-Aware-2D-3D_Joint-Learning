@@ -75,8 +75,8 @@
 
 ### 3D Co-segmentation
 
-* BAE-NET: Branched Autoencoder for Shape Co-Segmentation, ICCV 2019 ⛔️
-* AdaCoSeg: Adaptive Shape Co-Segmentation With Group Consistency Loss, CVPR 2020 ⛔️
+* BAE-NET: Branched Autoencoder for Shape Co-Segmentation, ICCV 2019 ✅
+* AdaCoSeg: Adaptive Shape Co-Segmentation With Group Consistency Loss, CVPR 2020 ✅
 
 * Unsupervised Point Cloud Object Co-segmentation by Co-contrastive Learning and Mutual Attention Sampling, ICCV 2021 ✅
   * SampleNet: Differentiable Point Cloud Sampling
@@ -89,8 +89,8 @@
 
 ### 2D Image part segmentation
 
+* SCOPS: Self-Supervised Co-Part Segmentation, CVPR 2019 ✅
 * Unsupervised Part Discovery from Contrastive Reconstruction, NIPS 2021 ✅
-* SCOPS: Self-Supervised Co-Part Segmentation, CVPR 2019 ❌
 * Unsupervised Co-part Segmentation through Assembly, ICML 2021 ❌
 * Do semantic parts emerge in Convolutional Neural Networks? _Interest Reading_
 
