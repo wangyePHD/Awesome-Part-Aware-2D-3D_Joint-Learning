@@ -34,9 +34,9 @@
 ❌：not do
 
 ### 3D Cross-Modality Correspondence
-`CUNY Yingli Tian Group`
-* Self-supervised Modal and View Invariant Feature Learning, CVPR, 2021
-* Self-supervised Feature Learning by Cross-modality and Cross-view Correspondences, CVPR, 2021
+`CUNY --- Yingli Tian Group`
+* Self-supervised Modal and View Invariant Feature Learning, CVPR, 2021 ⛔️
+* Self-supervised Feature Learning by Cross-modality and Cross-view Correspondences, CVPR, 2021 ⛔️
 * SELF-SUPERVISED MODALITY-INVARIANT AND MODALITY-SPECIFIC FEATURE LEARNING FOR 3D OBJECTS, ICLR, 2022
 * Cross-Modal Center Loss for 3D Cross-Modal Retrieval, CVPR, 2021
 
