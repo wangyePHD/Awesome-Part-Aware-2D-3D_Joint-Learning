@@ -33,6 +33,13 @@
 
 ❌：not do
 
+### 3D Cross-Modality Correspondence
+`CUNY Yingli Tian Group`
+* Self-supervised Modal and View Invariant Feature Learning, CVPR, 2021
+* Self-supervised Feature Learning by Cross-modality and Cross-view Correspondences, CVPR, 2021
+* SELF-SUPERVISED MODALITY-INVARIANT AND MODALITY-SPECIFIC FEATURE LEARNING FOR 3D OBJECTS, ICLR, 2022
+* Cross-Modal Center Loss for 3D Cross-Modal Retrieval, CVPR, 2021
+
 ### Cross-Modality Contrastive Learning
 * CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations, ICCV, 2021 ✅
 * COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning, NIPS, 2020 ✅
@@ -47,6 +54,7 @@
 * Use What You Have: Video Retrieval Using Representations From Collaborative Experts, BMVC, 2019
 * Cross-Modal and Hierarchical Modeling of Video and Text, CVPR, 2018
 * Learning a Text-Video Embedding from Incomplete and Heterogeneous Data
+* Self-Supervised Visual Feature Learning With Deep Neural Networks: A Survey, TPAMI, 2020
 
 ### multi-modality
 * 
