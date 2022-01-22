@@ -26,15 +26,14 @@
   * DGCNN: Dynamic Graph CNN for Learning on Point Clouds, ToG 2019
 
 ## papers
-
-<i class="fas fa-book-open"></i>
-<i class="bi bi-markdown"></i>
-
 ✅：done
 
 ⛔️：doing
 
 ❌：not do
+
+📖 : General Reading 
+📝 : Intensive Reading
 
 ### 3D Cross-Modality Correspondence
 `CUNY --- Yingli Tian Group`
