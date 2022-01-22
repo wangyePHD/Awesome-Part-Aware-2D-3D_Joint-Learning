@@ -27,6 +27,8 @@
 
 ## papers
 
+<i class="fas fa-book-open"></i>
+
 ✅：done
 
 ⛔️：doing
