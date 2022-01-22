@@ -28,6 +28,7 @@
 ## papers
 
 <i class="fas fa-book-open"></i>
+<i class="bi bi-markdown"></i>
 
 ✅：done
 
