@@ -41,6 +41,7 @@
 * Self-supervised Feature Learning by Cross-modality and Cross-view Correspondences, CVPR, 2021 ⛔️ 📖
 * SELF-SUPERVISED MODALITY-INVARIANT AND MODALITY-SPECIFIC FEATURE LEARNING FOR 3D OBJECTS, ICLR, 2022, ⛔️, 📖 
 * Cross-Modal Center Loss for 3D Cross-Modal Retrieval, CVPR, 2021
+
 `Others work`
 * Info3D: Representation Learning on 3D Objects using Mutual Information Maximization and Contrastive Learning，ECCV，2020
 
